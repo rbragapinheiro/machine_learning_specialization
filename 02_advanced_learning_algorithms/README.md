@@ -1,5 +1,7 @@
 # Advanced Learning Algorithms
 
+https://www.coursera.org/learn/advanced-learning-algorithms
+
 ## Week 1 : Neural Networks
 
 * Get familiar with the diagram and components of a neural network
