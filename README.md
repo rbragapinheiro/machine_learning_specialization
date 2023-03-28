@@ -4,9 +4,9 @@ https://www.coursera.org/specializations/machine-learning-introduction
 
 # Courses
 
-- [Supervised Machine Learning: Regression and Classification](https://github.com/rbragapinheiro/machine_learning_specialization/tree/master/1.%20Supervised%20Machine%20Learning%20Regression%20and%20Classification)
-- Advanced Learning Algorithms
-- Unsupervised Learning, Recommenders, Reinforcement Learning
+- [Supervised Machine Learning: Regression and Classification](https://github.com/rbragapinheiro/machine_learning_specialization/tree/master/01_supervised_machine_learning_regression_and_classification)
+- [Advanced Learning Algorithms](https://github.com/rbragapinheiro/machine_learning_specialization/tree/master/02_advanced_learning_algorithms)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/rbragapinheiro/machine_learning_specialization/tree/master/03_unsupervised_learning_recommenders_reinforcement_learning)
 
 # Certificate
 
