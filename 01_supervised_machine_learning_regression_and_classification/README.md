@@ -1,6 +1,6 @@
 # Supervised Machine Learning: Regression and Classification
 
-Week 1: Introduction to Machine Learning
+## Week 1 : Introduction to Machine Learning
 
 * Define machine learning
 * Define supervised learning
@@ -12,13 +12,13 @@ Week 1: Introduction to Machine Learning
 * Optimize a regression model using gradient descent
 
 
-Week 2: Regression with multiple input variables
+## Week 2 : Regression with multiple input variables
 
 * Use vectorization to implement multiple linear regression
 * Use feature scaling, feature engineering, and polynomial regression to improve model training
 * Implement linear regression in code
 
-Week 3: Classification
+## Week 3 : Classification
 
 * Use logistic regression for binary classification
 * Implement logistic regression for binary classification
