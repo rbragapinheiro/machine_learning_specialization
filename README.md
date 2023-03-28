@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-Link: https://www.coursera.org/specializations/machine-learning-introduction
+https://www.coursera.org/specializations/machine-learning-introduction
 
 # Courses
 
