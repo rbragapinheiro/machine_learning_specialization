@@ -24,3 +24,4 @@ Course 2 - Advanced Learning Algorithms
 Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 # Certificate
+![Certificate](https://github.com/rbragapinheiro/machine_learning_specialization/blob/master/Coursera%20V55RM2NC8CHB.png)
