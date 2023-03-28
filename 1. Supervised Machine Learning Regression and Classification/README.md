@@ -26,4 +26,4 @@ Week 3: Classification
 
 # Certificate
 
-![Certificate](Coursera XE9BEU285D76.png)
+![Certificate](https://github.com/rbragapinheiro/machine_learning_specialization/blob/master/1.%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Coursera%20XE9BEU285D76.png)
