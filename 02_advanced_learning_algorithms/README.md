@@ -1,6 +1,6 @@
 # Advanced Learning Algorithms
 
-## Week 1 : Neural Networks
+### Week 1 : Neural Networks
 
 * Get familiar with the diagram and components of a neural network
 * Understand the concept of a "layer" in a neural network
