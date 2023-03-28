@@ -1,5 +1,7 @@
 # Supervised Machine Learning: Regression and Classification
 
+https://www.coursera.org/learn/machine-learning
+
 ## Week 1 : Introduction to Machine Learning
 
 * Define machine learning
