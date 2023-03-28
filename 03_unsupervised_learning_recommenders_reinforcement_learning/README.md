@@ -1,5 +1,7 @@
 # Unsupervised Learning, Recommenders, Reinforcement Learning
 
+https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
+
 ## Week 1 : Unsupervised learning
 
 * Implement the k-means clustering algorithm
