@@ -41,7 +41,7 @@ https://www.coursera.org/learn/advanced-learning-algorithms
 * Learn to include fairness and ethics in your machine learning model development
 * Measure precision and recall to work with skewed (imbalanced) datasets
 
-## Week 4 : Decision tress
+## Week 4 : Decision trees
 
 * See what a decision tree looks like and how it can be used to make predictions
 * Learn how a decision tree learns from training data
